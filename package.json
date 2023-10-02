@@ -2,7 +2,7 @@
   "name": "module11_homework",
   "version": "1.0.0",
   "description": "rep for 11's learn module",
-  "main": "index.js",
+  "main": "src/countDown.js",
   "scripts": {
     "test": "jest"
   },
